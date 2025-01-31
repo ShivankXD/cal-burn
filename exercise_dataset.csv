@@ -1,4 +1,4 @@
-"Activity, Exercise or Sport (1 hour)",130 lb,155 lb,180 lb,205 lb,Calories per kg
+Activity,130 lb,155 lb,180 lb,205 lb,Calories per kg
 "Cycling, mountain bike, bmx",502,598,695,791,1.75072971940299
 "Cycling, <10 mph, leisure bicycling",236,281,327,372,0.823235629850746
 "Cycling, >20 mph, racing",944,1126,1308,1489,3.29497352835821
@@ -12,7 +12,7 @@ Unicycling,295,352,409,465,1.02972154029851
 "Stationary cycling, moderate",413,493,572,651,1.44133935522388
 "Stationary cycling, vigorous",620,739,858,977,2.16234753432836
 "Stationary cycling, very vigorous",738,880,1022,1163,2.57464235223881
-"Calisthenics, vigorous, pushups, situps…",472,563,654,745,1.64782526567164
+"Calisthenics, vigorous, pushups, situps?",472,563,654,745,1.64782526567164
 "Calisthenics, light",207,246,286,326,0.721008179104478
 "Circuit training, minimal rest",472,563,654,745,1.64782526567164
 "Weight lifting, body building, vigorous",354,422,490,558,1.23485344477612
@@ -67,7 +67,7 @@ Bowling,177,211,245,279,0.61742672238806
 "Boxing, in ring",708,844,981,1117,2.47106089552239
 "Boxing, punching bag",354,422,490,558,1.23485344477612
 "Boxing, sparring",531,633,735,838,1.85295717014925
-"Coaching: football, basketball, soccer…",236,281,327,372,0.823235629850746
+"Coaching: football, basketball, soccer?",236,281,327,372,0.823235629850746
 "Cricket (batting, bowling)",295,352,409,465,1.02972154029851
 Croquet,148,176,204,233,0.515199271641791
 Curling,236,281,327,372,0.823235629850746
